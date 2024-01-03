@@ -1,0 +1,15 @@
+{
+  "name": "payment-components-example",
+  "version": "1.0.0",
+  "description": "An example PaymentComponent implementation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "checkout.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.12"
+  }
+}
